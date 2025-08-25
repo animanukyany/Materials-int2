@@ -1,0 +1,19 @@
+[
+  {
+    "code": "001",
+    "name": "Material 1",
+    "type": 1,
+    "group": {"code": "001", "name": "Տեխնիկա"},
+    "external_code": "",
+    "unit": {"code": "001", "name": "Հատ", "brief": "հատ"}
+  },
+  {
+    "code": "002",
+    "name": "Material 2",
+    "type": 2,
+    "group": {"code": "1", "name": "Տեխնիկա"},
+    "external_code": "",
+    "unit": {"code": "001", "name": "Հատ", "brief": "հատ"}
+
+  }
+]

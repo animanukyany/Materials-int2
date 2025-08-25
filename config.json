@@ -1,0 +1,4 @@
+{
+  "connection": "mssql+pyodbc://sa:SaSa111@DESKTOP-LC1A93K\\ASACC/TradeDB?driver=ODBC+Driver+17+for+SQL+Server",
+  "mat_file_path": "C:\\Projects\\Materials-int2\\data_mat.json"
+}
